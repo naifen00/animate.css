@@ -27,7 +27,7 @@ module.exports = function(grunt) {
     cssmin: {
       minify: {
         src: ['animate.css'],
-        dest: 'animate.min.css',
+        dest: 'animate.min.css'
       }
     },
 
